@@ -1,0 +1,173 @@
+Version=4
+DecimalSeparator=(,)
+DateSeparator=(/)
+ShortDateFormat=dd/MM/yyyy
+LongDateFormat=dddd, d' de 'MMMM' de 'yyyy
+Cols=2
+Rows=40
+Font.Name=Arial
+Font.Size=15
+DefaultRowHeight=26
+ClientWidth=1041
+ClientHeight=614
+Grid.left=0
+Grid.top=0
+font.style.fsbold=0
+font.style.fsItalic=0
+font.style.fsUnderline=0
+font.style.fsStrikeOut=0
+Barra.Herramientas.visible=1
+DataDescription_top=0
+DataDescription_left=0
+DataDescription_width=0
+DataDescription_height=0
+{columns data}
+Col.name=CC
+Col.description=
+Col.data.type=3
+Col.decimals=0
+Col.alignment=1
+Col.width=71
+Col.formula=
+Col.color=16777215
+Col.visible=1
+Col.protegida=0
+Col.casesensitive=1
+Col.grouplabels=
+{end of column}
+Col.name=Nitrato
+Col.description=
+Col.data.type=1
+Col.decimals=1
+Col.alignment=1
+Col.width=100
+Col.formula=
+Col.color=16777215
+Col.visible=1
+Col.protegida=0
+Col.casesensitive=1
+Col.grouplabels=
+{end of column}
+{row data}
+{end row data}
+{block data}
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+V v
+V v
+V v
+V v
+V v
+V v
+V v
+V v
+V v
+V v
+V S
+V S
+V S
+V S
+V S
+V S
+V S
+V S
+V S
+V S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+81
+74
+80
+85
+88,5
+91,5
+87,5
+87,5
+96
+88,3
+38,5
+49,5
+40,5
+39,4
+48
+40,4
+45
+31
+38,8
+41
+14,5
+17,5
+14,6
+16,6
+14,8
+11,2
+28
+21
+12,8
+13,8
+14,5
+17,5
+14,6
+16,6
+14,8
+9,6
+22
+17,7
+12,8
+7,3
